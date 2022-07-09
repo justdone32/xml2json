@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33ed8553-26f5-41a1-8c81-504434ae588d" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/examples/file.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/file.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/file.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/file.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/rssTransformer.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/rssTransformer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/transformer.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/transformer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml2json.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/xml2json.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:/Program Files/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="2BhBF8D9fLKCuhDrxiMNPzISGTu" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/examples" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\LearnCode\Go_learn\xml2json\src\api" />
+      <recent name="E:\LearnCode\Go_learn\xml2json\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="xml2json" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="xml2json" />
+      <working_directory value="$PROJECT_DIR$/src/examples" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/examples/transformer.go" />
+      <output_directory value="$PROJECT_DIR$/bin" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.xml2json" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2334" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1657350751723">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2334" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1657350751723" />
+    <state x="2594" y="163" key="#go_build_transformer.go" timestamp="1657348466324">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2594" y="163" key="#go_build_transformer.go/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1657348466324" />
+    <state width="666" height="618" key="DebuggerActiveHint" timestamp="1657351752998">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="666" height="618" key="DebuggerActiveHint/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1657351752998" />
+    <state x="2660" y="280" key="FileChooserDialogImpl" timestamp="1657348962153">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2660" y="280" key="FileChooserDialogImpl/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1657348962153" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1657352243815">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1657352243815" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1657352243815">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1657352243815" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1657352243815">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1657352243815" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1657352243815">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1657352243815" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1657352243815">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1657352243815" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1657352243815">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1657352243815" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1657352243815">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1657352243815" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1657352243815">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1657352243815" />
+    <state x="2388" y="170" key="SettingsEditor" timestamp="1657349188980">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2388" y="170" key="SettingsEditor/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1657349188980" />
+    <state x="2455" y="172" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1657351555528">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2455" y="172" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1657351555528" />
+    <state x="2602" y="435" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1657349456717">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2602" y="435" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1657349456717" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/pkg/mod/github.com/textnode/xml2json@v0.0.0-20120821185532-cdcb8284b15a/xml2json.go</url>
+          <line>67</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

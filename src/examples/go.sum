@@ -1,0 +1,4 @@
+github.com/textnode/jsonStreamer v0.0.0-20120821185409-19574243d550 h1:bBY0AgBOWe/wvNviSvYNvksqEvJYj5VN3HQTaRf5HuM=
+github.com/textnode/jsonStreamer v0.0.0-20120821185409-19574243d550/go.mod h1:U+bC9AuihoKnKG6FDFo6bgY9shED3bagluBGAAleQCs=
+github.com/textnode/xml2json v0.0.0-20120821185532-cdcb8284b15a h1:gCOu3+Au4xDd8WMc78m7wpktpcald/5fu3ZAOA+GaQ4=
+github.com/textnode/xml2json v0.0.0-20120821185532-cdcb8284b15a/go.mod h1:sMx55T6fBEArt3XeliqwYRnGDsepNPAm1LzSexQbqQo=

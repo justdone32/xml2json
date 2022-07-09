@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-package xml2json
+package api
 
 import (
 	"encoding/xml"
